@@ -4,7 +4,7 @@
 ## demo的效果:
 ![](http://i.imgur.com/IkLzTcR.png)
 
-##IndicatorProgressBar源码要点;
+## IndicatorProgressBar源码要点;
 
 1.在drawable中重新定义ProgressBar的背景及进度条的显示效果progress,在布局中直接引入即可 android:progressDrawable="@drawable/progress"
 
