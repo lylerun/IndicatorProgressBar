@@ -79,6 +79,9 @@ public class IndicatorProgressBar extends ProgressBar {
         return percent + "%";
     }
 
+    /**
+     * dp转px的小方法
+     */
     protected int dp2px(int dpVal)
     {
         return (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,
