@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_33f8ba54e3d9587e6855cdea7a54fbf614dad54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b73025d173cffeb77794f0608d177eacd001ee6">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0ec23e986a14ae231d97c388e24315ba7c3942a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_7e1de5ab29aeb64bc4b557d197b623103254a398\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_37671792ba088fff97b3552373e78ab7904a1e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_919de3cb69ceff58bbd53d3279686a98a62fccaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_f34de823d5ab8f12936a326643329e9db5af9594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_ad53f2a37972c3e1d80d84cf8f1da8240e3813f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93e9aecc4a4553279efe5efdb516503247674f36">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e3562c8ff638cc1db0bd13ef3d503749fa09ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ExtraSoft\ASsdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_511bb69f0ead665e6570c956bdc1224245ea3d25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_a66715fc7e1dd78ff893f2cf0c15e1fb6de020ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_e2bfe5f61078902cf1d11fb76c263a65e126506a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.2.0_77976d3f14eca1eda2756650036b790bfa3aadb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_41e556468cb87666a4f72d66bdefd455e6b1c376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_740b441c116c835fd697b8cc9bcd07514cdaec91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_37b15515cf66a39d996d0811fc40c9e187df4eef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="248c75cf89f95bb5626ae6cb260275bb54fe1774">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_91840719397912af835400dcf656c38c514e2d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_b297a3e7d04060f37972f603733531756c7b7bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.2.0_383c9b0f26d9ef5db91a5546a32183bb0a188053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_01ca0d1e534c4afda1d523bcf1daf8d65a202724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_5f5b136ae3bd418154df1d0847c75a99944bff36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02faf7deb98dff28fc3f0a875d558660338fcfce">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b23bf73396d70c6e25e9095dc5f92a32b65988fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\lyle_library\IndicatorProgressBar\progressbardemo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_cd3c4584df7b1b933efa3274dd583c5b84a362fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MyCode\oschina_client\radarview\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\MyCode\oschina_client\radarview\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.2.0_e5635a338181e918a7729efdc81d44aafeb54896\classes.dex" />
+    </item>
+
+</items>
